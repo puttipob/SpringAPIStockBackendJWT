@@ -1,0 +1,9 @@
+spring.datasource.url=jdbc:postgresql://john.db.elephantsql.com:5432/nkkwczdk
+spring.datasource.username=nkkwczdk
+spring.datasource.password=Fp6R_Kn0dYOI9HJgZ-6_H9zJrizUx5m5
+
+
+spring.jpa.properties.hibernate.format_sql = true
+spring.jpa.show-sql = true
+
+spring.jpa.hibernate.ddl-auto = update
